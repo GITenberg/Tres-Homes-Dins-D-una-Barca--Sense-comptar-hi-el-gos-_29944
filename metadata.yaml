@@ -1,0 +1,43 @@
+_repo: Tres-Homes-Dins-D-una-Barca--Sense-comptar-hi-el-gos-_29944
+_version: 0.1.0
+alternative_title: Three Men in a Boat (To Say Nothing of the Dog). Catalan
+contributor:
+  translator:
+    agent_name: Mustieles, Jacinto María
+    aliases:
+    - Mustieles, Jacinto Maria
+    - Mustieles, J. M.
+    birthdate: 1887
+    gutenberg_agent_id: '32051'
+    url: http://www.gutenberg.org/2009/agents/32051
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: ''
+gutenberg_issued: '2009-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29944'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Fiction'
+- !lcsh 'Thames River (England) -- Fiction'
+- !lcsh 'Humorous stories, English'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Boats and boating -- England -- Thames River -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Young men -- Travel -- England -- Thames River -- Fiction'
+title: Tres Homes Dins D'una Barca (Sense comptar-hi el gos)
+url: http://www.gutenberg.org/ebooks/29944
